@@ -32,7 +32,7 @@ if (isset($_POST['donor_id'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Track Donation</title>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIERrbV0T3iWUTS008bWL-Un30ya1MhCc&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=google api key" async defer></script>
     <style>
         #map {
             height: 400px;
